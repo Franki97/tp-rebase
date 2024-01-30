@@ -1,3 +1,6 @@
 ligne 1
 ligne 2
+ligne 3
+je modifie la ligne 3 dans master
 ligne 3 modifiée par la branhe rbproblem
+pas de pb
